@@ -1,6 +1,17 @@
-- 👋 Hi, I’m @MAbdelshafy
-- 👀 I’m interested in System Design and Architecture, Data Analysis and Data Engineering
-- 📫 How to reach me: [https://www.linkedin.com/in/mohamed-abd-el-shafy-1a8606113/](https://www.linkedin.com/in/mohammedabdelshafi/) or E-mail, mrmohamedabdelshafy@gmail.com
+# 👋 Hi there, I’m @MAbdelshafy
+
+I'm passionate about building scalable systems and making data work for people. My interests lie at the intersection of:
+
+- 🧠 **AI-powered Product Development**
+- 🏗️ **System Design & Architecture**
+- 📊 **Data Analysis & Engineering**
+
+
+---
+
+📫 **Get in touch**  
+- [LinkedIn](https://www.linkedin.com/in/mohammedabdelshafi/)  
+- 📧 mrmohamedabdelshafy@gmail.com
 
 <!---
 MAbdelshafy/MAbdelshafy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
